@@ -1,0 +1,9 @@
+torch
+transformers
+datasets==2.21.0
+peft
+evaluate
+seqeval
+accelerate
+numpy
+torchao
